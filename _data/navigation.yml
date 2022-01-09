@@ -19,6 +19,8 @@ docs:
   - title: "다른 것도 필요해?"
     children:
       - title: "안돼, 더이상 찾지 마."
+      - title: "Search"
+        url: /search/
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
